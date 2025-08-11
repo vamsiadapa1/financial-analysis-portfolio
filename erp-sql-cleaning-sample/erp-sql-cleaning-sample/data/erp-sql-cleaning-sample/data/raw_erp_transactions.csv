@@ -1,0 +1,7 @@
+TransactionID,PostingDateRaw,CostCenterRaw,Debit,Credit,ProductCodeRaw,RegionRaw,Status
+1,2024-01-15,CC-001,100.0,,PR-001,north ,Posted
+2,15/02/2024,CC_001,,50.0,pr001 ,SOUTH,Posted
+3,03-03-2024,CC 001,250.0,,Prod002,,Pending
+4,2024/04/05,CC001,400.0,, PR003,East,Posted
+5,05-05-2024,CC-002,,200.0,pr-003, west,Posted
+6,06/06/2024,CC 002,500.0,,Prod001,Unknown,Posted
